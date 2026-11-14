@@ -1,0 +1,14 @@
+class vehicle:
+def start(sef):
+print("vehicle started")
+class car(vehicle):
+defdrive (self):
+print ("car is driving")
+class Electric car(car):
+def charge(car):
+def Charge(self):
+print("Electric Car is chsarging")
+my_car=Electric car()
+my_car.start()
+my_car.drive ()
+my_car.charge()
